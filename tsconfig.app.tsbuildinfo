@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/catalogstore.ts","./src/app.vue","./src/components/catalog.vue","./src/components/catalogitem.vue","./src/components/header.vue","./src/components/modal.vue","./src/components/sidebar.vue"],"errors":true,"version":"5.6.3"}
